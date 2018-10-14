@@ -9,7 +9,7 @@
       "type": "go",
       "request": "launch",
       "mode": "auto",
-      "program": "${fileDirname}",
+      "program": "c:\\Golang\\src\\github.com\\FURams09\\EmailManager\\start.go",
       "env": {},
       "args": []
     }

@@ -16,4 +16,6 @@ credentials.json
 token.json
 
 
+#VSCode
+.vscode/*
 debug
